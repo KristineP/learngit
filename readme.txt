@@ -6,3 +6,4 @@ creating a new branch is quick
 fast forward test
 test
 test3
+feature
