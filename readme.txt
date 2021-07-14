@@ -7,3 +7,4 @@ fast forward test
 test
 test3
 feature
+feature test
