@@ -1,2 +1,2 @@
-Hello world
-i'm learning git
+hello world.
+i'm learning git.
